@@ -67,5 +67,4 @@ docker-compose up --build
 
 Pawsitive Care is an advisory tool and does not provide medical diagnoses or prescriptions. Always consult a licensed veterinarian for medical concerns.
 
----
-Built with ❤️ by Antigravity AI.
+
